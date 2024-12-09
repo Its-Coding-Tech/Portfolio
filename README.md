@@ -39,7 +39,7 @@ Visual Studio Code
 
 ## Authors
 
-Mohsin Ali
+-[@Mohsin Ali](https://www.github.com/Its-Coding-Tech)
 
 ## License
 
