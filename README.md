@@ -1,18 +1,19 @@
-Portfolio Website - Mohsin Ali
+# Portfolio Website - Mohsin Ali
 
 This is my personal portfolio website designed to showcase my expertise, projects, and achievements as a professional web developer. The website provides a seamless experience for visitors to learn about me, explore my skills, and connect with me.
 
-Table of Content
-
+## Table  of Content 
 Features
 
 Technologies Used
 
 License
 
-Features
+Authors
 
-Professional Design: Modern and responsive layout optimized for both desktop and mobile devices.
+## Features
+
+ Professional Design: Modern and responsive layout optimized for both desktop and mobile devices.
 
 Project Showcase: Dedicated section to highlight completed projects, including FastFIX, Digital Library, and more.
 
@@ -22,10 +23,9 @@ Contact Section: Social media links and contact form to connect with me.
 
 Interactive Navigation: Smooth transitions and user-friendly interface for an immersive experience.
 
-Technologies To be Used
+##  Technologies To Be Used 
 
-Frontend:
-
+### Frontend:
 HTML5, CSS3
 
 Bootstrap for responsive design
@@ -34,10 +34,14 @@ JavaScript for interactivity
 
 Font Awesome for icons
 
-License
+### Tools:
+Visual Studio Code
 
-This project is licensed under the MIT License.
+## Authors
 
-Authors
+Mohsin Ali
 
--@Its-Coding-Tech
+## License
+
+This project is licensed under the[ MIT License.](https://choosealicense.com/licenses/mit/)
+
